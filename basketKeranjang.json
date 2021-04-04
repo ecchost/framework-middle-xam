@@ -1,0 +1,31 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "name": "Midea MSFL-05CR",
+      "price": 3599000,
+      "stock": 6,
+      "purchasedUnits": 4,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Midea_MSFL_05CR/Midea_MSFL_05CR_L_1.jpg",
+      "comment": "1/2PK Super low watt 260w"
+    },
+    {
+      "id": 2,
+      "name": "Sharp AH-AP5UHL",
+      "price": 3325000,
+      "stock": 12,
+      "purchasedUnits": 2,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Sharp_AH_AP5UHL/Sharp_AH_AP5UHL_L_1.jpg",
+      "comment": "AC 0.5PK, Plasmacluster Ion HD 7.000"
+    },
+    {
+      "id": 8,
+      "name": "Sharp AH-A5MEY",
+      "price": 2852000,
+      "stock": 20,
+      "purchasedUnits": 1,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/SHARP_AH_A5MEY/SHARP_AH_A5MEY_L_1.jpg",
+      "comment": "Wifi Controller and Connection"
+    }
+  ]
+}

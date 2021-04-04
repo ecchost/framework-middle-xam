@@ -1,0 +1,112 @@
+{
+  "productData": [
+    {
+      "SKU": 1,
+      "name": "Midea MSFL-05CR",
+      "price": 3599000,
+      "stock": 6,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Midea_MSFL_05CR/Midea_MSFL_05CR_L_1.jpg",
+      "comment": "1/2PK Super low watt 260w"
+    },
+    {
+      "SKU": 2,
+      "name": "Sharp AH-AP5UHL",
+      "price": 3325000,
+      "stock": 12,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Sharp_AH_AP5UHL/Sharp_AH_AP5UHL_L_1.jpg",
+      "comment": "AC 0.5PK, Plasmacluster Ion HD 7.000"
+    },
+    {
+      "SKU": 3,
+      "name": "LG T08EMV",
+      "price": 2895000,
+      "stock": 20,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/LG_T06EMV/LG_T06EMV_L_1.jpg",
+      "comment": "Smart Inverter, Pendinginan Cepat, Active Energy Control"
+    },
+    {
+      "SKU": 4,
+      "name": "LG T05NLA",
+      "price": 3264000,
+      "stock": 10,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/LG_T05NLA/LG_T05NLA_L_1.jpg",
+      "comment": "Filter udara anti bakteri, Sleep Mode, dan fitur Jet Cool"
+    },
+    {
+      "SKU": 5,
+      "name": "Samsung AR05KRFLAWKN",
+      "price": 2299000,
+      "stock": 24,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Samsung_AR05KRFLAWKN/Samsung_AR05KRFLAWKN_L_1.jpg",
+      "comment": "Standard with Fast Cooling."
+    },
+    {
+      "SKU": 6,
+      "name": "Panasonic CS-YN9TKJ",
+      "price": 2949000,
+      "stock": 15,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Panasonic_CS_YN7TKJ/Panasonic_CS_YN7TKJ_L_1.jpg",
+      "comment": "iAUTO, Ecotough : outdoor AC material SuperDyma"
+    },
+    {
+      "SKU": 7,
+      "name": "Daikin FTNE15JEV14",
+      "price": 3250000,
+      "stock": 4,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Daikin_FTNE20JEV14/Daikin_FTNE20JEV14_L_1.jpg",
+      "comment": "Comfortable Airflow Control, silent mode, automatic cleaning."
+    },
+    {
+      "SKU": 8,
+      "name": "Sharp AH-A5MEY",
+      "price": 2852000,
+      "stock": 20,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/SHARP_AH_A5MEY/SHARP_AH_A5MEY_L_1.jpg",
+      "comment": "Wifi Controller and Connection"
+    },
+    {
+      "SKU": 9,
+      "name": "Daikin FTNE50MV14",
+      "price": 1050000,
+      "stock": 20,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Daikin_FTNE15MV14/Daikin_FTNE15MV14_L_1.jpg",
+      "comment": "2PK, Kendali Aliran Udara Nyaman, Hemat Energi."
+    },
+    {
+      "SKU": 10,
+      "name": "Sharp CV-P10TCY",
+      "price": 6099000,
+      "stock": 10,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/SHARP_CV_P10TCY/SHARP_CV_P10TCY_L_1.jpg",
+      "comment": "AC portable berkapasitas 1PK dengan fitur plasmacluster, Mode Ion Generator, dan Mode Refresh (Laundry)."
+    },
+    {
+      "SKU": 11,
+      "name": "Xiaomi Mi Air Purifier 2H",
+      "price": 1788000,
+      "stock": 19,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Xiaomi_Mi_Air_Purifier_2H/Xiaomi_Mi_Air_Purifier_2H_L_1.jpg",
+      "comment": "Xiaomi Mi Air Purifier 2H dengan filter udara TRUE HEPA filtrasi pemasukan udara 360 derajat."
+    },
+    {
+      "SKU": 12,
+      "name": "Samsung AX60R5080WD/SE",
+      "price": 3639000,
+      "stock": 22,
+      "purchasedUnits": 0,
+      "img": "https://d2pa5gi5n2e1an.cloudfront.net/webp/global/images/product/airconditioners/Samsung_AX60R5080WD_SE/Samsung_AX60R5080WD_SE_L_1.jpg",
+      "comment": "Memurnikan udara lebih cepat, Menghilangkan hingga 99,97% dari debu, tampilan intuitif dan Nikmati udara segar di mana saja dengan lebih mudah."
+    }
+  ]
+}
