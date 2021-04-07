@@ -1,12 +1,5 @@
-## Available Scripts
-
-In the project directory, you can run:
-####animation:
-npm i react-animated-css --save
-
-####chatbot:
-npm install styled-components --save
-npm install react-simple-chatbot --save
+## Framework Middle Exam Programming
+# Eko Setio Wijanarko
 
 ### `npm start`
 
